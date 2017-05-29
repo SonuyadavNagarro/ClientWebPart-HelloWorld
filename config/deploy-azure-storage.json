@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "client-web-part-hello-world",
+  "accessKey": "<!-- ACCESS KEY -->"
+}
